@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-asd55555555asdasfsdf
-=======
-
-asdasdasdasd
->>>>>>> Stashed changes
+clear
